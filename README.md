@@ -1,4 +1,12 @@
 # VAC_DSA_2020a1r040
+This GitHub repository contains the materials and resources for a value-added course focused on Data Structures and Algorithms. In this course, you will learn the fundamental concepts and principles of data structures and algorithms, including arrays, linked lists, stacks, queues, trees, and graphs. You will also learn how to analyze the performance of algorithms using Big O notation, and how to implement various algorithms in code.
+
+The course includes small exercises and tests to help you practice and reinforce your understanding of the concepts covered. The exercises and tests are designed to be challenging yet manageable, allowing you to gradually build your skills and confidence as you progress through the course.
+
+The materials in this repository include lecture slides, code examples, and exercises, all of which are organized by topic and difficulty level. The repository also includes solutions to the exercises and tests, so you can check your work and get feedback on your progress.
+
+Whether you're a beginner or an experienced programmer, this course will help you sharpen your skills and deepen your understanding of data structures and algorithms. By the end of the course, you will be able to apply these concepts and techniques to a wide range of programming problems and challenges.
+
 
 # Awesome Algorithms
 
